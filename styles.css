@@ -7,6 +7,15 @@
   box-sizing: border-box;
 }
 
+body {
+  background: radial-gradient(circle, #cbeaff, #bbdefb, #88c9ff, #5bb5ff);
+  height: 100vh; 
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 main{
   position: relative;
 }
